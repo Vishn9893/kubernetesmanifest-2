@@ -1,2 +1,1 @@
-# kuberenetesmanifest
-# kubernetesmanifest-2
+# kubernetesmanifest-2 for Baywa
