@@ -23,7 +23,7 @@ spec:
 
           - name: baywattest
 
-            image: vishblip93/baywatest:latest
+            image: vishblip93/bawyatest:1
 
             imagePullPolicy: IfNotPresent
 
